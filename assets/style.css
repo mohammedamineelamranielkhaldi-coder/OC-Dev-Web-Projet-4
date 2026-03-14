@@ -355,3 +355,10 @@ input[type="submit"] {
 	}
 }
 
+/*Correction bug filtres*/
+.nav-link.active-tag {
+    background-color: #8C7E2E !important;
+    color: white !important;
+}
+
+
